@@ -1,2 +1,1 @@
-"docs: initial commit dengan README template"
-"docs: update progress belajar - setup completed"
+docs: initial commit dengan README template
