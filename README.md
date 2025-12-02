@@ -1,1 +1,1 @@
-docs: initial commit dengan README template
+"docs : initial commit dengan README template"
