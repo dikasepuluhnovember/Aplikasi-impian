@@ -7,8 +7,7 @@ NIM: [240104040134]
 Kelas: [TI24A]
 
 ## Tentang Repository
-Repository untuk belajar manajemen konfigurasi, khususnya ve
-rsion control dengan Git dan GitHub.
+Repository untuk belajar manajemen konfigurasi, khususnya version control dengan Git dan GitHub.
 
 ## Progress Belajar
 - [x] Setup Git lokal
